@@ -1,3 +1,6 @@
+- [Pipe](#pipe)
+    - [Tarefas para casa](#tarefas-para-casa)
+    - [Desafio](#desafio)
 # Pipe
 Nesta aula, vamos ver o conceito do caracter pipe (|). 
 No linux, o pipe tem uma função importante: Direcionar a saída de um comando para a entrada do comando seguinte. Este comando simplificou muito a integração entre comandos/programas. Dessa forma podemos encadear comandos, sem aumentar muito a complexidade do código.
